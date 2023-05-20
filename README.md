@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Davuy Beytekin</h1>
+<h1 align="center">Hi 👋, I'm Davut Beytekin</h1>
 <h3 align="center">A passionate flutter developer from turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
 
